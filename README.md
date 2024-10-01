@@ -1,5 +1,5 @@
 # Hi there 👋
-## No yapping here. See who am I yourself - check out my repos star or fork those you like!
+**No yapping here. See who am I yourself - check out my repos star or fork those you like!**
 <!--
 **flynt-3650/flynt-3650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
